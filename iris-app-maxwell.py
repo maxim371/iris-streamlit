@@ -1,4 +1,3 @@
-# Import files
 import pandas as pd
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn import datasets
