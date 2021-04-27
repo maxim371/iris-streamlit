@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run iris-streamlit.py
+web: sh setup.sh && streamlit run iris-app-maxwell.py
