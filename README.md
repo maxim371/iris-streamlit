@@ -1,5 +1,5 @@
 # Iris-Streamlit
-Image classification project using support vector machine. This is a multivariate classification project. This is deployed to Heroku. Dashboard was created using streamlit. given certain features, this will classificy the kind of flowering plant
+Image classification project using K Nearest Neighbor Algorithm. This is a multivariate classification project which is deployed to Heroku. Dashboard was created using streamlit. Given certain input parameters, this will classificy the kind of flowering plant
 # Deployment
 [Link to Deployed App](https://iris-app-maxwell.herokuapp.com/)
 # Motivation
